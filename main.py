@@ -1,6 +1,6 @@
 # Discord Bot API Fetcher for FiveM Cheating Servers
-# Made by AthexCC
-# Visit https://github.com/athexcc
+# Made by Kowy
+# Visit https://github.com/kqwyy
 
 import discord
 from discord.ext import commands, tasks
@@ -345,3 +345,4 @@ async def on_ready():
     update_activity.start()
 
 bot.run(BOT_TOKEN)
+
