@@ -26,4 +26,4 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-- [Website](https://athexcc.xyz)
+- [Website](https://blank.xyz)
